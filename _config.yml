@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Antoine Gauquier # the website title (if blank, full name will be used instead)
-first_name: Antoine
+first_name: <b>Antoine</b>
 middle_name: 
-last_name: Gauquier
+last_name: <b>Gauquier</b>
 email: antoine.gauquier@ens.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Antoine Gauquier's personal Website. 
