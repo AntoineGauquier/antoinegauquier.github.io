@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Conference's names in red are either short or long research papers, ones in orange are demonstration papers, ones in green are workshop papers and ones in grey are miscellaneous. The list might not be up to date: please visit my <a href='https://dblp.org/pid/352/3990.html'>DBLP page</a> or my <a href='https://scholar.google.com/citations?user=yAAqUcoAAAAJ'>Google Scholar</a> page for latest information.
+Conference or journal papers (short or long) appear in red,  demonstration papers in orange, workshop papers in green and miscellaneous in grey.
 
 <!-- _pages/publications.md -->
 
