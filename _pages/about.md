@@ -9,9 +9,9 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>4, Hauts du DI</p><br/>
-    <p>45 rue d'Ulm</p><br/>
-    <p>75005 PARIS</p><br/>
+    <center><p>4, Hauts du DI</p><br/></center>
+    <center><p>45 rue d'Ulm</p><br/></center>
+    <center><p>75005 PARIS</p><br/></center>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
