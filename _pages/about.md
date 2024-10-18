@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Hauts du DI (4),</p><br/>
+    <p>4, Hauts du DI</p><br/>
     <p>45 rue d'Ulm</p><br/>
     <p>75005 PARIS</p><br/>
 
@@ -18,10 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my Webpage!
-
 I am a Ph.D. student from <a href='https://www.ens.psl.eu/'>École normale supérieure</a>, jointly advised by <a href='https://pierre.senellart.com/'>Pierre Senellart</a> (head of the <a href='https://team.inria.fr/valda/'>Inria Valda team</a>) and <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> (head of the <a href='https://team.inria.fr/cedar/'>Inria Cedar team</a>).
 
-My research interests include <em>large-scale data acquisition</em> (especially on the Web), <em>data analysis</em> (especially tabular data) and <em>heterogeneous data integration</em>. The main applications of my reseach are <em>statistical data journalism</em> (in the scope of the <a href='https://team.inria.fr/cedar/projects/statcheck/'>StatCheck</a> project) and <em>knowledge extraction from the scientific literature</em> (in the scope of the <a href='https://github.com/PierreSenellart/theoremkb'>TheoremKB</a> project). 
+My research interests include <em>large-scale data acquisition</em> (especially on the Web), <em>data analysis</em> (especially tabular data) and <em>heterogeneous data integration</em>. The main applications of my reseach are <em>statistical data journalism</em> (in the scope of the <a href='https://team.inria.fr/cedar/projects/statcheck/'>StatCheck</a> project) and <em>knowledge extraction from scholarly documents</em> (in the scope of the <a href='https://github.com/PierreSenellart/theoremkb'>TheoremKB</a> project). 
 
 Before my Ph.D., I got a <em>general engineer</em> degree from <a href='https://imt-nord-europe.fr/'>IMT Nord Europe</a>. I did my final year at <a href='https://www.telecom-paris.fr/'>Télécom Paris</a>, specializing in data management and artificial intelligence. I am also a military reserve officer in the <a href='https://www.defense.gouv.fr/marine'>Marine Nationale</a> (French Navy).

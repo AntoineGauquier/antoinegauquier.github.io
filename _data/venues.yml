@@ -1,9 +1,32 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"VLDB Ph.D.":
+  url: https://vldb.org/2024/?accepted-phd-workshop-papers
+  color: "#00ab37"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ESWC":
+  url: https://eswc-conferences.org/
+  color: "#f29105"
 
-"Vision":
-  color: "#009f36"
+"ADBIS":
+  url: http://adbis.eu/
+  color: "#b71c1c"
+
+"Doc. Eng.":
+  url: https://www.documentengineering.org/
+  color: "#b71c1c"
+
+"SDP":
+  url: https://sdproc.org/
+  color: "#00ab37"
+
+"Inf. Sys.":
+  url: https://www.sciencedirect.com/journal/information-systems
+  color: "#b71c1c"
+
+"Msc. Thesis":
+  url: https://inria.hal.science/hal-04220990v1
+  color: "#828282"
+
+"ArXiv":
+  url: "https://arxiv.org/"
+  color: "#828282"
+
