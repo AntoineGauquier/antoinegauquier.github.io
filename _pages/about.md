@@ -7,7 +7,7 @@ subtitle: <a href='https://www.di.ens.fr/'>DIENS</a>, <a href='https://www.ens.p
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Hauts du DI (4),</p>
     <p>45 rue d'Ulm</p>
