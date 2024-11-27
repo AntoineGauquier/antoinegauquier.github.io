@@ -2,6 +2,10 @@
   url: https://vldb.org/2024/?accepted-phd-workshop-papers
   color: "#00ab37"
 
+"JCDL":
+  url: https://2024.jcdl.org/
+  color: "#b71c1c"
+
 "ESWC":
   url: https://eswc-conferences.org/
   color: "#f29105"
