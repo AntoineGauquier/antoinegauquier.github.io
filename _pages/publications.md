@@ -15,7 +15,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<center><abbr class="badge rounded w-100" style="background-color:#b71c1c"> Conference or journal papers (short or long) </abbr>&nbsp;<abbr class="badge rounded w-100" style="background-color:#f29105"> Demonstration papers </abbr>&nbsp;<abbr class="badge rounded w-100" style="background-color:#00ab37"> Workshop papers </abbr>&nbsp;<abbr class="badge rounded w-100" style="background-color:#828282"> Miscellaneous </abbr></center>
+<center><abbr class="badge rounded w-100" style="background-color:#b71c1c"> Conference or journal papers (short or long) </abbr>&nbsp;<abbr class="badge rounded w-100" style="background-color:#f29105"> Demonstration papers </abbr>&nbsp;<abbr class="badge rounded w-100" style="background-color:#00ab37"> Workshop papers </abbr>&nbsp;<abbr class="badge rounded w-100" style="background-color:#1e90ff"> Posters </abbr>&nbsp;<abbr class="badge rounded w-100" style="background-color:#828282"> Miscellaneous </abbr></center>
 
 <div class="publications">
 
