@@ -34,3 +34,6 @@
   url: "https://arxiv.org/"
   color: "#828282"
 
+"EGC":
+  url: "https://www.egc2025.cnrs.fr/programme/"
+  color: "#1e90ff"
