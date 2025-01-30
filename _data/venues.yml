@@ -37,3 +37,7 @@
 "EGC":
   url: "https://www.egc2025.cnrs.fr/programme/"
   color: "#1e90ff"
+
+"ECIR":
+  url: "https://ecir2025.eu/"
+  color: "#f29105"
