@@ -11,4 +11,4 @@ I am teaching in the <em>Introduction to Algorithms</em> and <em>Python programm
 
 I co-advised (with <a href='https://pierre.senellart.com/'>Pierre Senellart</a>) the internships of Léo Boullot and Paul Sevestre in 2024 (undergraduate students in the <a href='https://psl.eu/formation/cpes-psl-henri-IV'>CPES « Sciences »</a> program) on the automatic extraction and semantization of tables in PDF documents.
 
-I am also an elected representative of non-permanent members in the <a href='https://www.di.ens.fr/'>DIENS laboratory</a> council, and a member of the selection commitee of incoming students in the <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a> program.
+I am also an elected representative of non-permanent members in the <a href='https://www.di.ens.fr/'>DIENS laboratory</a> council, an elected representative of Ph.D. students at <a href='https://www.ens.psl.eu/'>ENS</a>'s board of directors (« CA »), and a member of the selection commitee of incoming students in the <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a> program.
