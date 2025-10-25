@@ -17,7 +17,7 @@ I co-advised (with <a href='https://pierre.senellart.com/'>Pierre Senellart</a>)
 <hr>
 <br/>
 
-<h2>Services</h2>
+<h2>Service</h2>
 
 I am an elected representative of non-permanent members in the <a href='https://www.di.ens.fr/'>DIENS laboratory</a> council, and an elected representative of Ph.D. students at <a href='https://www.ens.psl.eu/'>ENS</a>'s board of directors (« CA »).
 
