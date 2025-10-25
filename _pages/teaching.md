@@ -7,16 +7,19 @@ nav: true
 nav_order: 6
 ---
 
-<h1>Teaching and Supervision</h1>
+<h2>Teaching and Supervision</h2>
 
 I am teaching in the <em>Introduction to Algorithms</em> and <em>Python programming</em> courses in the <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a> program (joint program between <a href='https://louislegrand.fr/'>Lycée Louis-le-Grand</a> and <a href='https://psl.eu/'>PSL University</a>), as well as in the <em>Differential Calculus</em> course in the <a href='https://psl.eu/formation/cpes-psl-henri-IV'>CPES « Sciences »</a> program (joint program between <a href='https://lycee-henri4.com/'>Lycée Henri IV</a> and <a href='https://psl.eu/'>PSL University</a>).
 
 I co-advised (with <a href='https://pierre.senellart.com/'>Pierre Senellart</a>) the internships of Léo Boullot and Paul Sevestre in 2024 (undergraduate students in the <a href='https://psl.eu/formation/cpes-psl-henri-IV'>CPES « Sciences »</a> program) on the automatic extraction and semantization of tables in PDF documents.
 
 <br/>
-<h1>Services</h1>
+<hr>
+<br/>
+
+<h2>Services</h2>
 
 I am an elected representative of non-permanent members in the <a href='https://www.di.ens.fr/'>DIENS laboratory</a> council, and an elected representative of Ph.D. students at <a href='https://www.ens.psl.eu/'>ENS</a>'s board of directors (« CA »).
 
-I am a member of the selection commitee of incoming students in the <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a> program. I am a member of the <a href="https://ui.adsabs.harvard.edu/WIESP/2025/ProgramCommittee">Program Committee of the Workshop on Artificial Intelligence for Scientific Publications (WASP) 2025</a>, co-located with <a href="https://2025.aaclnet.org/">IJCNLP-AACL 2025</a>.
+I am a member of the selection commitee of incoming students in the <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a> program. I am a member of the <a href="https://ui.adsabs.harvard.edu/WIESP/2025/ProgramCommittee">Program Committee</a> of the Workshop on Artificial Intelligence for Scientific Publications (WASP) 2025, co-located with <a href="https://2025.aaclnet.org/">IJCNLP-AACL 2025</a>.
 
