@@ -23,3 +23,5 @@ I am a Ph.D. student from <a href='https://www.ens.psl.eu/'>École normale supé
 My research interests include <em>large-scale data acquisition</em> (especially on the Web), <em>data analysis</em> (especially tabular data) and <em>heterogeneous data integration</em>. The main applications of my reseach are <em>statistical data journalism</em> (in the scope of the <a href='https://team.inria.fr/cedar/projects/statcheck/'>StatCheck</a> project) and <em>knowledge extraction from scholarly documents</em> (in the scope of the <a href='https://github.com/PierreSenellart/theoremkb'>TheoremKB</a> project). 
 
 Before my Ph.D., I got a <em>general engineer</em> degree from <a href='https://imt-nord-europe.fr/'>IMT Nord Europe</a>. I did my final year at <a href='https://www.telecom-paris.fr/'>Télécom Paris</a>, specializing in data management and artificial intelligence. I am also a military reserve officer in the <a href='https://www.defense.gouv.fr/marine'>Marine Nationale</a> (French Navy).
+
+You can find my full CV here: <a href="/assets/pdf/cv.pdf">CV (PDF)</a>.
