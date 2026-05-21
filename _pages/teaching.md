@@ -19,7 +19,9 @@ I co-advised (with <a href='https://pierre.senellart.com/'>Pierre Senellart</a>)
 
 <h2>Service</h2>
 
-I am an elected representative of non-permanent members in the <a href='https://www.di.ens.fr/'>DIENS laboratory</a> council, and an elected representative of Ph.D. students at <a href='https://www.ens.psl.eu/'>ENS</a>'s board of directors (« CA »).
+I serve as an elected representative of non-permanent members in the <a href='https://www.di.ens.fr/'>DIENS laboratory</a> council, and an elected representative of Ph.D. students at <a href='https://www.ens.psl.eu/'>ENS</a>'s board of directors (« CA »).
 
-I am a member of the selection commitee of incoming students in the <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a> program. I am a member of the <a href="https://ui.adsabs.harvard.edu/WIESP/2025/ProgramCommittee">Program Committee</a> of the Workshop on Artificial Intelligence for Scientific Publications (WASP) 2025, co-located with <a href="https://2025.aaclnet.org/">IJCNLP-AACL 2025</a>.
+I am also a member of the selection commitee for incoming students in the <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a> program. 
+
+In addition, I serve on the <a href="https://vldb.org/2026/call-for-demonstrations.html">Demonstration Track Program Committee</a> of <a href="https://vldb.org/2026/">VLDB 2026</a>. Previously, I was  a <a href="https://ui.adsabs.harvard.edu/WIESP/2025/ProgramCommittee">Program Committee</a> member for the Workshop on Artificial Intelligence for Scientific Publications (WASP) 2025, co-located with <a href="https://2025.aaclnet.org/">IJCNLP-AACL 2025</a>.
 
