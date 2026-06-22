@@ -1,3 +1,6 @@
+{% if site.cv_pdf %}
+  <a href="{{ site.cv_pdf | prepend: site.baseurl }}" title="CV" target="_blank" rel="noopener noreferrer"><i class="ai ai-cv"></i></a>
+{% endif %}
 {% if site.email %}
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}

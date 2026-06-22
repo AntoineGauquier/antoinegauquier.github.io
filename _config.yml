@@ -7,6 +7,7 @@ first_name: Antoine
 middle_name: 
 last_name: Gauquier
 email: antoine.gauquier@ens.fr
+cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Antoine Gauquier's personal Website. 
 footer_text: >
