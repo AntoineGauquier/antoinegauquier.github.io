@@ -57,3 +57,7 @@
 "TLDKS":
   url: "https://link.springer.com/series/8637"
   color: "#b71c1c"
+
+"CIKM":
+  url: "https://cikm2026.diag.uniroma1.it/"
+  color: "#b71c1c"
