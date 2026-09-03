@@ -61,3 +61,7 @@
 "CIKM":
   url: "https://cikm2026.diag.uniroma1.it/"
   color: "#b71c1c"
+
+"Ph.D. Thesis":
+  url: "https://theses.fr/s368398"
+  color: "#828282"
