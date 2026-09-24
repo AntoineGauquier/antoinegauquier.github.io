@@ -6,7 +6,7 @@ title: Antoine Gauquier # the website title (if blank, full name will be used in
 first_name: Antoine
 middle_name: 
 last_name: Gauquier
-email: antoine.gauquier@ens.fr
+email: gauquier.antoine@gmail.com
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Antoine Gauquier's personal Website. 

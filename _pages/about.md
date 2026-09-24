@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student from <a href='https://www.ens.psl.eu/'>École normale supérieure</a>, jointly advised by <a href='https://pierre.senellart.com/'>Pierre Senellart</a> (head of the <a href='https://team.inria.fr/valda/'>Inria Valda team</a>) and <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> (head of the <a href='https://team.inria.fr/cedar/'>Inria Cedar team</a>).
+I hold a Ph.D. in Computer Science from <a href='https://www.ens.psl.eu/'>École normale supérieure</a> (<a href='https://psl.eu/'>PSL University</a>), obtained in September 2026 under the supervision of <a href='https://pierre.senellart.com/'>Pierre Senellart</a> (head of the <a href='https://team.inria.fr/valda/'>Inria Valda team</a>) and <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> (head of the <a href='https://team.inria.fr/cedar/'>Inria Cedar team</a>).
 
 My research interests include <em>large-scale data acquisition</em> (especially on the Web), <em>data analysis</em> (especially tabular data) and <em>heterogeneous data integration</em>. The main applications of my reseach are <em>statistical data journalism</em> (in the scope of the <a href='https://team.inria.fr/cedar/projects/statcheck/'>StatCheck</a> project) and <em>knowledge extraction from scholarly documents</em> (in the scope of the <a href='https://github.com/PierreSenellart/theoremkb'>TheoremKB</a> project). 
 
