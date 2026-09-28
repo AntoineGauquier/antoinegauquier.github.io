@@ -233,6 +233,22 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
+      {% if entry.dataset %}
+        {% if entry.dataset contains '://' %}
+          <a href="{{ entry.dataset }}" class="btn btn-sm z-depth-0" role="button">Data</a>
+        {% else %}
+          <a href="{{ entry.dataset | prepend: '/assets/data/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Data</a>
+        {% endif %}
+      {% endif %}
+      {% if entry.code_and_data %}
+        <a href="{{ entry.code_and_data }}" class="btn btn-sm z-depth-0" role="button">Code and Data</a>
+      {% endif %}
+      {% if entry.code_and_models %}
+        <a href="{{ entry.code_and_models }}" class="btn btn-sm z-depth-0" role="button">Code and Models</a>
+      {% endif %}
+      {% if entry.experiments %}
+        <a href="{{ entry.experiments }}" class="btn btn-sm z-depth-0" role="button">Experiments</a>
+      {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
