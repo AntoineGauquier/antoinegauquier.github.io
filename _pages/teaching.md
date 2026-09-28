@@ -35,6 +35,7 @@ Undergraduate interns from the <a href='https://psl.eu/formation/cpes-psl-henri-
 <h4>Program Committees</h4>
 
 <ul>
+  <li><a href="https://edbticdt2027.github.io/?contents=call_for_demos.html">EDBT 2027</a>, Demonstration Track</li>
   <li><a href="https://www2027.thewebconf.org/research-track-papers/">WWW 2027</a>, Research Track</li>
   <li><a href="https://vldb.org/2026/">VLDB 2026</a>, Demonstration Track</li>
   <li><a href="https://cikm2026.diag.uniroma1.it/demonstration-papers/">CIKM 2026</a>, Demonstration Track</li>
@@ -42,7 +43,7 @@ Undergraduate interns from the <a href='https://psl.eu/formation/cpes-psl-henri-
   <li><a href="https://ui.adsabs.harvard.edu/WIESP/2025/ProgramCommittee">WASP 2025</a>, co-located with <a href="https://2025.aaclnet.org/">IJCNLP-AACL 2025</a></li>
 </ul>
 
-<h4>Past Institutional Roles</h4>
+<h4>Institutional Roles</h4>
 
 <ul>
   <li>Elected representative of non-permanent members, <a href='https://www.di.ens.fr/'>DIENS laboratory</a> council (2024–2026)</li>
