@@ -12,9 +12,9 @@ nav_order: 6
 Teaching Assistant at <a href='https://psl.eu/'>PSL University</a> and <a href='https://louislegrand.fr/'>Lycée Louis-le-Grand</a> (2023–2026):
 
 <ul>
-  <li><em>Introduction to Algorithms</em> and <em>Python Programming</em> (L1, <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a>): 106 hours, laboratory sessions and selected lectures</li>
-  <li><em>Differential Calculus</em> (L2, <a href='https://psl.eu/formation/cpes-psl-henri-IV'>CPES « Sciences »</a>): 24 hours in 2024 and 2025, tutorials</li>
-  <li><em>Bibliographic Research</em> (L2, <a href='https://psl.eu/formation/cpes-psl-henri-IV'>CPES « Sciences »</a>): 20 hours in 2023 and 2024, workshop-style lectures</li>
+  <li><em>Introduction to Algorithms</em> and <em>Python Programming</em> (L1, <a href='https://psl.eu/formation/cpes-psl-louis-le-grand'>CPES « Data Science, Arts and Cultures »</a>): 106 hours, laboratory sessions and selected lectures (2023–2026)</li>
+  <li><em>Differential Calculus</em> (L2, <a href='https://psl.eu/formation/cpes-psl-henri-IV'>CPES « Sciences »</a>): 24 hours, tutorials (2024–2025)</li>
+  <li><em>Bibliographic Research</em> (L2, <a href='https://psl.eu/formation/cpes-psl-henri-IV'>CPES « Sciences »</a>): 20 hours, workshop-style lectures introducing research in computer science (2023–2024)</li>
 </ul>
 
 <h2>Supervision</h2>
